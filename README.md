@@ -69,6 +69,7 @@
 - [**CalcuFly Engineering Calculators**](https://www.calcufly.com) - Electrical, mechanical, civil, chemical engineering calculators. Professional-grade, free. ★★★★★
 - [CalculatorSoup](https://www.calculatorsoup.com) - Various engineering calculations.
 - [Engineering ToolBox](https://www.engineeringtoolbox.com) - Reference data and calculators.
+- [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Free concrete calculators for slabs, footings, columns, and bags with cost estimates.
 
 ## Date & Time
 
