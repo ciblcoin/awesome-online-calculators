@@ -48,6 +48,7 @@
 - [Wolfram Alpha](https://www.wolframalpha.com) - Computational engine. Paid for step-by-step.
 - [GeoGebra](https://www.geogebra.org) - Dynamic geometry and algebra.
 - [Mathway](https://www.mathway.com) - Math problem solver. Paid for solutions.
+- [Engagement-Ratio Calculator (German, Austria)](https://followerkaufen.at/tools/engagement-rate) - Calculate (likes + comments) / followers, reach or views × 100 from manual counts. Free, no signup; German interface.
 
 ## Finance & Business
 
